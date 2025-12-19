@@ -63,7 +63,8 @@ The build currently produces a debug-only APK.
 ```bash
 
 
-git clone https://gitlab.com/eyeseas666/invizible-tracker-control-pro.git
+git clone https://github.com/0sir1z666/invizible-tracker-control-pro.git
+cd invizible-tracker-control-pro
 
 
 cd invizible-tracker-control-pro
